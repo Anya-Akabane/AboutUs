@@ -152,7 +152,7 @@ section{
 
 
 #mst{
-    font-family: 'Neue Montreal';
+    font-family: Neue-Montreal-Reg;
     font-style: normal;
     font-weight: 500;
     font-size: 40px;
@@ -181,7 +181,7 @@ p{
 }
 
 .contri{
-    font-family: 'Neue Montreal';
+    font-family: Neue-Montreal-Med;
     font-style: normal;
     font-size: 25px;
     font-weight: 500;
